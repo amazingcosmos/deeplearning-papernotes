@@ -3,6 +3,7 @@
 This is a notebook of reading notes on deeplearning papers.
 
 2016.9
+- Line: Large-scale information network embedding [[arXiv](http://arxiv.org/abs/1503.03578)]
 - Todo: Bayesian Reinforcement Learning: A Survey [[arXiv](http://arxiv.org/abs/1609.04436)]
 - [Deep Computational Phenotyping](/notes/deep-computational-phenotyping.md) [[paper](http://www-scf.usc.edu/~zche/papers/kdd2015.pdf)]
 - Distributed Representations of Sentences and Documents [[paper](http://www.jmlr.org/proceedings/papers/v32/le14.pdf)]

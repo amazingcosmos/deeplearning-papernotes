@@ -10,8 +10,20 @@ The authors proposed content-enchanced network embedding (CENE) to jointly learn
 
 ## Key Points
 
+### Idea
+
 - This work is inspired by ["Network representation learning with rich text information"](http://www.thunlp.org/~lzy/publications/ijcai2015_network.pdf).
 
-- 
+- Loss function minimizes both the loss in SP (positive vertex) and SN (negative pair set).
+
+- The framework embeds node-node link and node-content link. Specifically, content is embeded by sentence2vec.
+
+- The paper introduce contents (document) as a special kind of nodes. So, the network is denotes as G=(Vn, Vc, Enn, Enc).
+
+### Methodology
+
+- Node-node link specify ***SP*** as ***Enn***
+
+- In node-content link, use a composition function fe(.) to compute the content representation in order to fully capture the semantics of texts. It uses three model to represent the content: 1. Word Embedding Average, 2. RNN, 3. BiRNN.
 
 ## My Notes

@@ -4,6 +4,8 @@ This is a notebook of reading notes on deeplearning papers.
 
 2016.10
 
+- node2vec: Scalable Feature Learning for Networks[[arXiv](https://arxiv.org/abs/1607.00653)]
+
 - [AAAI review](/notes/AAAI17-review.md)
 
 - [A General Framework for Content-enhanced Network Representation Learning](/notes/a-general-framework-for-content-enhanced-etwork-epresentation-learning.md)[[arXiv](https://arxiv.org/abs/1610.02906)]

@@ -4,7 +4,7 @@ This is a notebook of reading notes on deeplearning papers.
 
 2016.10
 
-- node2vec: Scalable Feature Learning for Networks[[arXiv](https://arxiv.org/abs/1607.00653)]
+- node2vec: Scalable Feature Learning for Networks[[arXiv](https://arxiv.org/abs/1607.00653)] [[page](https://snap.stanford.edu/node2vec/)]
 
 - [AAAI review](/notes/AAAI17-review.md)
 
